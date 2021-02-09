@@ -47,34 +47,6 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-8">
-                <div class="crypt-gross-market-cap mt-4">
-                    <div class="row">
-                        <div class="col-3 col-sm-6 col-md-6 col-lg-6">
-                            <div class="row">
-                                <div class="col-sm-6 col-md-6 col-lg-6">
-                                    <p>Last Price </p>
-                                    <p>0.0234230 $0.04</p>
-                                </div>
-                                <div class="col-sm-6 col-md-6 col-lg-6">
-                                    <p>Change </p>
-                                    <p class="crypt-down">-0.0234230 -3.35%</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-3 col-sm-2 col-md-3 col-lg-2">
-                            <p>High </p>
-                            <p class="crypt-up">0.435453</p>
-                        </div>
-                        <div class="col-3 col-sm-2 col-md-3 col-lg-2">
-                            <p>Low </p>
-                            <p class="crypt-down">0.09945</p>
-                        </div>
-                        <div class="col-3 col-sm-2 col-md-3 col-lg-2">
-                            <p>Volume 24Hr</p>
-                            <p class="crypt-down">12.33445</p>
-                        </div>
-                    </div>
-                </div>
                 <div class="tradingview-widget-container mb-3">
                     <div id="crypt-candle-chart"></div>
                 </div>
